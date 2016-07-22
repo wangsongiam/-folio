@@ -1,4 +1,4 @@
-# *folio
+# *folio Wangsup
 A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
 <hr/>
 
