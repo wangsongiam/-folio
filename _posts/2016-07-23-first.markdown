@@ -1,0 +1,7 @@
+---
+layout: post
+title: the frist touch
+date: 2016-07-23 15:09:00
+description: frist thing frist 
+---
+trying something

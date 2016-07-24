@@ -3,9 +3,9 @@ layout: post
 title: Soliloquy Of The Solipsist
 date: 2015-07-06 07:59:00
 ---
-I?    
-I walk alone;    
-The midnight street    
+I?
+I walk alone;
+The midnight street
 Spins itself from under my feet;    
 When my eyes shut    
 These dreaming houses all snuff out;    
